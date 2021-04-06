@@ -1,4 +1,4 @@
-# Experimentomariatakeshita
+# Experimento Maria Takeshita 
  
 A realização do experimento tem como objetivo observar se ambientes educacionais gamificados esteriotipados positivamente (Stereotype Boost), aumentam o desempenho quando sua identidade estereotipada positiva é ativada, ao utilizarmos uma escala (questionário) como instrumento para coleta de dados  serão  analisados o engajamento e desempenho nas atividades realizadas.
 
